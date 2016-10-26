@@ -1,0 +1,8 @@
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Sandalia Confort', 39999, 'Sandalia Confort Adulto Femenino Champagne Marketing Personal', '2016-10-17 09:06:54.391', 1)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Sandalia Rejilla Miel', 59999, 'Sandalia Rejilla Miel Mercedes Campuzano Marco', '2016-10-17 09:08:01.472', 1)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Spadrilla Beige', 39999, 'Spadrilla Beige Mercedes Campuzano Plataforma', '2016-10-17 09:09:25.551', 1)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Reindeer', 49999, 'Sandalia Nude Reindeer EMI-0526C', '2016-10-17 09:10:42.519', 1)

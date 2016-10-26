@@ -1,0 +1,8 @@
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Pink Connection', 119900, 'Tacón Alto Rosado-Negro Pink Connection', '2016-10-17 09:18:42.911', 3)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Mussi', 140900, 'Tacón Alto Miel Mussi', '2016-10-17 09:19:34.423', 3)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Zatz', 67900, 'Tacón Medio Camel ZATZ', '2016-10-17 09:20:35.863', 3)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Ramarim', 74900, 'Tacón Alto Vinotinto Ramarim de Ramarim', '2016-10-17 09:21:43.687', 3)

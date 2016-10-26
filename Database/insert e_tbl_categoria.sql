@@ -1,0 +1,8 @@
+INSERT INTO ecommerce.e_tbl_categoria (id, nombre) 
+	VALUES (1, 'SANDALIAS')
+INSERT INTO ecommerce.e_tbl_categoria (id, nombre) 
+	VALUES (2, 'BOTAS')
+INSERT INTO ecommerce.e_tbl_categoria (id, nombre) 
+	VALUES (3, 'TACONES')
+INSERT INTO ecommerce.e_tbl_categoria (id, nombre) 
+	VALUES (4, 'DEPORTIVO')

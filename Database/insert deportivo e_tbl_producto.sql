@@ -1,0 +1,8 @@
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Brahma', 239900, 'Bota Trekking Rosa-Gris BRAHMA', '2016-10-17 09:23:37.751', 4)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Nike', 311900, 'Running Morado Nike Air Zoom Terra Kiger 3', '2016-10-17 09:24:27.368', 4)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('Vans', 156900, 'Lifestyle Azul Claro-Verde VANS', '2016-10-17 09:25:26.887', 4)
+INSERT INTO ecommerce.e_tbl_producto (nombre, precio, descripcion, ultima_modificacion, e_tbl_categoria_id) 
+	VALUES ('adidas', 254900, 'Lifestyle Multicolor adidas Superstar', '2016-10-17 09:26:56.823', 4)

@@ -1,0 +1,6 @@
+#surefire
+#Wed Oct 26 12:29:44 COT 2016
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\miguel.camargo\\OneDrive - Accenture\\Ecommerce\\Ecommerce\\Ecommerce-ejb
+localRepository=C\:\\Users\\miguel.camargo\\.m2\\repository
+basedir=C\:\\Users\\miguel.camargo\\OneDrive - Accenture\\Ecommerce\\Ecommerce\\Ecommerce-ejb
